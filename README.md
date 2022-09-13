@@ -1,4 +1,4 @@
-# <center> Welcome to my profile 🔨 </center>
+# <center> Welcome to my profile </center>
 
 <a href="https://www.instagram.com/luiscardenazs/">
   <img align="left" alt="Luis Bolivar | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
