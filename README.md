@@ -13,7 +13,7 @@
 
 Hi there! 
 
-Welcomw to my profile, I'm Backend developer with Data science Skills, currently working at xMatters, and Long, my personal project oriented to planning with Long-term vision. 
+Welcomw to my profile, I'm Backend developer with Data science Skills, currently working at Mercado Libre, and Long, my personal project oriented to planning with Long-term vision. 
 
 
 
